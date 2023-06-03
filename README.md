@@ -44,9 +44,6 @@
 
 <p>🎥 <a href="https://www.youtube.com/watch?v=your-video">Project Demo Video</a></p>
 
-<h2>Output Screenshot</h2>
-
-<p><img src="/Images/app_photo.png" alt="Output Screenshot"></p>
 
 <h2>Contribution</h2>
 
