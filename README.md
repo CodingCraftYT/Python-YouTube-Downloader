@@ -30,7 +30,6 @@
 
 <ul>
   <li><code>main.py</code>: The heart of the downloader, containing the Python code for the application.</li>
-  <li><code>customtkinter.py</code>: A stylish custom module for enhancing the Tkinter GUI elements.</li>
   <li><code>README.md</code>: Comprehensive documentation and instructions on how to use the YouTube downloader.</li>
   <li><code>requirements.txt</code>: A handy list of all the required Python dependencies.</li>
   <li><code>LICENSE</code>: Licensing information for the project.</li>
