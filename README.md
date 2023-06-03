@@ -39,7 +39,7 @@
 
 <p>Check out our YouTube channel for more amazing projects!</p>
 
-<p>🔗 <a href="https://www.youtube.com/channel/your-channel">Your YouTube Channel Name</a></p>
+<p>🔗 <a href="https://youtube.com/@codingcraft">Your YouTube Channel Name</a></p>
 
 <p>🎥 <a href="https://www.youtube.com/watch?v=your-video">Project Demo Video</a></p>
 
