@@ -30,6 +30,18 @@ Explore the world of YouTube with our Python-based YouTube downloader! This proj
 - `requirements.txt`: A handy list of all the required Python dependencies.
 - `LICENSE`: Licensing information for the project.
 
+## YouTube Channel and Video
+
+Check out our YouTube channel for more amazing projects!
+
+🔗 [Your YouTube Channel Name](https://www.youtube.com/channel/your-channel)
+
+🎥 [Project Demo Video](https://www.youtube.com/watch?v=your-video)
+
+## Output Screenshot
+
+![Output Screenshot](/Images/app_photo.png)
+
 ## Contribution
 
 We welcome contributions from fellow developers! Feel free to submit bug reports, feature requests, or pull requests on the GitHub repository. Let's make this downloader even better together! 👥🌟
